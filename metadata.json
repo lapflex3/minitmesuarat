@@ -1,0 +1,6 @@
+{
+  "name": "MinitAura",
+  "description": "Aplikasi AI Rakaman & Minit Mesyuarat Rasmi (Speech-to-Text, Ringkasan Eksekutif & Eksport PDF)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
